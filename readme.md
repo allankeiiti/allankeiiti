@@ -7,4 +7,5 @@
 
 Desenvolvedor Python, entusiasta em Machine Learning e formado como bacharel em Sistemas de Informação na FMU - Faculdades Metropolitanas Unidas. 
 <br>
-Atualmente sou assistente de M.I.S. na ML Gomes, onde sou encarregado de desenvolver projetos em Python voltados para Data Science e automação.
+Fui assistente de M.I.S. na ML Gomes, sendo encarregado de desenvolver projetos em Python voltados para Data Science e automação e atualmente,
+Cientista de Dados Jr. na Natura.
